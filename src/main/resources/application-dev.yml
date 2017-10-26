@@ -1,0 +1,7 @@
+server:
+  port: 8889
+  context-path: /student
+student:
+  age: 20
+  name: chong
+  sex: m
